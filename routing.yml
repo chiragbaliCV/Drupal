@@ -1,7 +1,7 @@
 form_page:
-  path: '/form-page'
+  path: '/Drupal'
   defaults:
     _title: 'form'
-    _form: 'Drupal/form.php'
+    _form: 'Drupal\form'
   requirements:
     _permission: 'access content'
